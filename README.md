@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter project.
+Application displaying an image of a diamond
 
 ## Getting Started
 
